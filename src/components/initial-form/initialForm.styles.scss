@@ -22,11 +22,8 @@
 	flex-direction: column;
 
 	button[type="submit"] {
-		a {
-			display: block;
-			padding: 1rem;
-			text-decoration: none;
-		}
+		display: block;
+		padding: 1rem;
 	}
 	select {
 		padding: 1rem;

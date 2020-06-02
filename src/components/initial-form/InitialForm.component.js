@@ -94,9 +94,7 @@ class InitialForm extends React.Component {
 						</select>
 					</div>
 
-					<button type="submit">
-						<a href="#featured">Search </a>
-					</button>
+					<button type="submit">Search</button>
 				</form>
 			</div>
 		);

@@ -12,8 +12,8 @@ function App(props) {
 		<div className="App">
 			<div className="container-flex-2">
 				<Header />
-				<InfoBoxSec />
 				<FeaturedApts />
+				<InfoBoxSec />
 			</div>
 		</div>
 	);
