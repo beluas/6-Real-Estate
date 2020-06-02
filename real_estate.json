@@ -1,0 +1,2702 @@
+[
+	{
+		"id": "f3fa7ac2-e1e9-42f4-8744-8d8aa515e65d",
+		"first_name_owner": "Astra",
+		"last_name_owner": "Habbeshaw",
+		"email_owner": "ahabbeshaw0@businesswire.com",
+		"address": "464 Aberg Pass",
+		"city": "Milan",
+		"zipcode": "48267",
+		"state": "Michigan",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x141.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€382397,01",
+		"amenities": [
+			{ "sqmt": 146, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "7/11/2018",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "588b50fc-c570-4245-bb28-68a3cbb96986",
+		"first_name_owner": "Dee",
+		"last_name_owner": "Mease",
+		"email_owner": "dmease1@cnbc.com",
+		"address": "05 Mcguire Lane",
+		"city": "Naples",
+		"zipcode": "34135",
+		"state": "Florida",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x250.jpg/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€295770,22",
+		"amenities": [
+			{ "sqmt": 179, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "4/7/2018",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "b7c6146e-0e87-4630-ab50-089e33196285",
+		"first_name_owner": "Merna",
+		"last_name_owner": "Farrey",
+		"email_owner": "mfarrey2@imgur.com",
+		"address": "14492 Stang Place",
+		"city": "New York",
+		"zipcode": "48206",
+		"state": "Michigan",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x114.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€205460,96",
+		"amenities": [
+			{ "sqmt": 75, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "1/16/2020",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "9f7b2598-9929-4658-819c-84166db0effc",
+		"first_name_owner": "Dorrie",
+		"last_name_owner": "Frail",
+		"email_owner": "dfrail3@clickbank.net",
+		"address": "28 Norway Maple Drive",
+		"city": "Milan",
+		"zipcode": "85311",
+		"state": "Arizona",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x212.jpg/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€315645,94",
+		"amenities": [
+			{ "sqmt": 139, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "5/6/2018",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "ef1d1602-359e-4f30-8aa1-9811a51bd5cd",
+		"first_name_owner": "Prudy",
+		"last_name_owner": "Weeds",
+		"email_owner": "pweeds4@imgur.com",
+		"address": "86105 Florence Circle",
+		"city": "New York",
+		"zipcode": "29208",
+		"state": "South Carolina",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x141.jpg/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€614828,55",
+		"amenities": [
+			{ "sqmt": 205, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "3/30/2019",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "8b07e21c-6da4-416f-9f01-a350222c2f45",
+		"first_name_owner": "Rick",
+		"last_name_owner": "Outibridge",
+		"email_owner": "routibridge5@themeforest.net",
+		"address": "220 Dottie Court",
+		"city": "Monroe",
+		"zipcode": "61640",
+		"state": "Illinois",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x183.jpg/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€538468,58",
+		"amenities": [
+			{ "sqmt": 99, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "3/17/2020",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "ce79e191-8ea0-482a-949c-2d50ad847db3",
+		"first_name_owner": "Erinn",
+		"last_name_owner": "Eastmead",
+		"email_owner": "eeastmead6@amazon.de",
+		"address": "3 Sloan Trail",
+		"city": "New York",
+		"zipcode": "87121",
+		"state": "New Mexico",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x171.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€313778,31",
+		"amenities": [
+			{ "sqmt": 176, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "3/14/2018",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "d8d7c1aa-c24d-4b54-8067-6d9a7717877c",
+		"first_name_owner": "Karoline",
+		"last_name_owner": "Androli",
+		"email_owner": "kandroli7@cbc.ca",
+		"address": "8 Arkansas Parkway",
+		"city": "Rome",
+		"zipcode": "60697",
+		"state": "Illinois",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x224.jpg/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€525774,61",
+		"amenities": [
+			{ "sqmt": 191, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "3/24/2018",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "4ad39bd9-6089-4702-b57d-b2a354ad8a62",
+		"first_name_owner": "Freddy",
+		"last_name_owner": "Northcott",
+		"email_owner": "fnorthcott8@bloglovin.com",
+		"address": "8 Scott Hill",
+		"city": "Naples",
+		"zipcode": "30306",
+		"state": "Georgia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x204.png/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€307774,27",
+		"amenities": [
+			{ "sqmt": 244, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "11/11/2019",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "acd3c583-e8d4-4ec6-9afa-b9b9e5dd5170",
+		"first_name_owner": "John",
+		"last_name_owner": "MacCollom",
+		"email_owner": "jmaccollom9@yale.edu",
+		"address": "0 Havey Alley",
+		"city": "New York",
+		"zipcode": "40266",
+		"state": "Kentucky",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x144.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€469080,25",
+		"amenities": [
+			{ "sqmt": 214, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "3/7/2018",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "618553e6-21d1-4fdb-81a9-6cbe8813f2af",
+		"first_name_owner": "Madeleine",
+		"last_name_owner": "Clutton",
+		"email_owner": "mcluttona@fotki.com",
+		"address": "11227 Crowley Parkway",
+		"city": "New York",
+		"zipcode": "77806",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x197.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€770038,32",
+		"amenities": [
+			{ "sqmt": 167, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "5/22/2018",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "245b0fe8-ae36-44ee-8531-8804ad74906b",
+		"first_name_owner": "Katy",
+		"last_name_owner": "Lillywhite",
+		"email_owner": "klillywhiteb@howstuffworks.com",
+		"address": "31768 Butternut Hill",
+		"city": "New York",
+		"zipcode": "30343",
+		"state": "Georgia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x243.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€741434,22",
+		"amenities": [
+			{ "sqmt": 72, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "3/22/2020",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "91bcc832-7afe-4605-b0b1-06c9bdf834fc",
+		"first_name_owner": "Udall",
+		"last_name_owner": "Mundow",
+		"email_owner": "umundowc@time.com",
+		"address": "7 Portage Street",
+		"city": "New York",
+		"zipcode": "89505",
+		"state": "Nevada",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x230.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€364074,60",
+		"amenities": [
+			{ "sqmt": 116, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "2/13/2020",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "15e3ab1b-bcbb-48c2-bded-7cb1bac30bf8",
+		"first_name_owner": "Mahmoud",
+		"last_name_owner": "MacNair",
+		"email_owner": "mmacnaird@abc.net.au",
+		"address": "76498 Manitowish Road",
+		"city": "Monroe",
+		"zipcode": "32244",
+		"state": "Florida",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x167.png/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€777999,73",
+		"amenities": [
+			{ "sqmt": 198, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "11/14/2018",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "da1c9c76-286e-40c2-892a-79c1ee1b10b5",
+		"first_name_owner": "Isador",
+		"last_name_owner": "Waistall",
+		"email_owner": "iwaistalle@patch.com",
+		"address": "45163 Oakridge Court",
+		"city": "Sofia",
+		"zipcode": "20442",
+		"state": "District of Columbia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x177.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€582450,85",
+		"amenities": [
+			{ "sqmt": 126, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "1/19/2019",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "641f7995-77c6-4a55-9658-5aab39c8243c",
+		"first_name_owner": "Odey",
+		"last_name_owner": "Hayne",
+		"email_owner": "ohaynef@cmu.edu",
+		"address": "93 Autumn Leaf Way",
+		"city": "Milan",
+		"zipcode": "68583",
+		"state": "Nebraska",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x198.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€402112,50",
+		"amenities": [
+			{ "sqmt": 45, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "6/25/2018",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "664e2bdc-3c98-4b45-a1b2-d4b6bb1d5ea5",
+		"first_name_owner": "Cad",
+		"last_name_owner": "Swoffer",
+		"email_owner": "cswofferg@myspace.com",
+		"address": "3 Roxbury Lane",
+		"city": "Rome",
+		"zipcode": "98498",
+		"state": "Washington",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x137.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€422461,38",
+		"amenities": [
+			{ "sqmt": 199, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "6/21/2018",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "dc69845b-a43b-457f-9ce9-ad29cfe2ddd9",
+		"first_name_owner": "Chrissy",
+		"last_name_owner": "Golborn",
+		"email_owner": "cgolbornh@studiopress.com",
+		"address": "939 Sherman Lane",
+		"city": "Sofia",
+		"zipcode": "78044",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x176.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€485817,57",
+		"amenities": [
+			{ "sqmt": 94, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "4/12/2019",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "c005007c-17b5-4f7f-abd4-39142b950e4b",
+		"first_name_owner": "Alejandro",
+		"last_name_owner": "Pinnigar",
+		"email_owner": "apinnigari@clickbank.net",
+		"address": "43 Twin Pines Point",
+		"city": "New York",
+		"zipcode": "81005",
+		"state": "Colorado",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x235.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€771612,14",
+		"amenities": [
+			{ "sqmt": 65, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "5/30/2019",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "03c02347-71b1-4efd-b660-5e22e128ce67",
+		"first_name_owner": "Markus",
+		"last_name_owner": "Poulney",
+		"email_owner": "mpoulneyj@jugem.jp",
+		"address": "268 Amoth Trail",
+		"city": "Rome",
+		"zipcode": "22217",
+		"state": "Virginia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x144.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€163735,63",
+		"amenities": [
+			{ "sqmt": 163, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "1/23/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "071b2ad6-caf8-4020-9525-3b9c017322aa",
+		"first_name_owner": "Carol",
+		"last_name_owner": "Rathe",
+		"email_owner": "crathek@foxnews.com",
+		"address": "675 Monica Circle",
+		"city": "Sofia",
+		"zipcode": "32868",
+		"state": "Florida",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x224.png/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€331790,63",
+		"amenities": [
+			{ "sqmt": 93, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "5/27/2018",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "841ea6ed-0b0b-4578-bd87-b35419ef8628",
+		"first_name_owner": "Emmalyn",
+		"last_name_owner": "Dyhouse",
+		"email_owner": "edyhousel@shop-pro.jp",
+		"address": "7865 Haas Alley",
+		"city": "New York",
+		"zipcode": "39296",
+		"state": "Mississippi",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x248.bmp/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€636824,75",
+		"amenities": [
+			{ "sqmt": 85, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "11/2/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "00aa2c04-d224-4874-b379-047da383ef92",
+		"first_name_owner": "Elfreda",
+		"last_name_owner": "Atte-Stone",
+		"email_owner": "eattestonem@simplemachines.org",
+		"address": "90 North Place",
+		"city": "Rome",
+		"zipcode": "27150",
+		"state": "North Carolina",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x100.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€576938,47",
+		"amenities": [
+			{ "sqmt": 171, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "3/16/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "fac572bc-3546-45ff-9328-d1d38655c182",
+		"first_name_owner": "Rubie",
+		"last_name_owner": "Dowsing",
+		"email_owner": "rdowsingn@deviantart.com",
+		"address": "973 Jana Road",
+		"city": "Naples",
+		"zipcode": "27455",
+		"state": "North Carolina",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x157.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€405769,07",
+		"amenities": [
+			{ "sqmt": 168, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "3/24/2018",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "13607f3f-8348-4cbc-bb85-4399e7997017",
+		"first_name_owner": "Luisa",
+		"last_name_owner": "McKeran",
+		"email_owner": "lmckerano@usnews.com",
+		"address": "22888 Helena Point",
+		"city": "Sofia",
+		"zipcode": "23242",
+		"state": "Virginia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x103.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€578956,11",
+		"amenities": [
+			{ "sqmt": 145, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "11/21/2018",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "2cd73089-64f6-4209-b619-8209260e034e",
+		"first_name_owner": "Dilan",
+		"last_name_owner": "Avard",
+		"email_owner": "davardp@reuters.com",
+		"address": "341 Red Cloud Parkway",
+		"city": "Krakow",
+		"zipcode": "32819",
+		"state": "Florida",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x105.jpg/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€434734,45",
+		"amenities": [
+			{ "sqmt": 210, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "9/5/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "674af83f-6638-4911-ba49-ea702f897aef",
+		"first_name_owner": "Pen",
+		"last_name_owner": "Rego",
+		"email_owner": "pregoq@mapquest.com",
+		"address": "15798 Springview Road",
+		"city": "New York",
+		"zipcode": "29305",
+		"state": "South Carolina",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x137.jpg/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€438391,64",
+		"amenities": [
+			{ "sqmt": 188, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "5/9/2018",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "a95da675-a573-4a3f-90ef-ac44ad6c063b",
+		"first_name_owner": "Pavia",
+		"last_name_owner": "Ridd",
+		"email_owner": "priddr@slideshare.net",
+		"address": "044 Bluejay Drive",
+		"city": "Rome",
+		"zipcode": "95298",
+		"state": "California",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x115.jpg/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€545709,65",
+		"amenities": [
+			{ "sqmt": 242, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "9/29/2018",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "9ba20300-5333-44bf-92cf-983292c7bfcc",
+		"first_name_owner": "Graham",
+		"last_name_owner": "Bette",
+		"email_owner": "gbettes@de.vu",
+		"address": "182 Shasta Alley",
+		"city": "Naples",
+		"zipcode": "71115",
+		"state": "Louisiana",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x189.png/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€693575,49",
+		"amenities": [
+			{ "sqmt": 80, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "9/14/2018",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "7831e13a-8ff8-40d4-a8d4-513f4617ca72",
+		"first_name_owner": "Leticia",
+		"last_name_owner": "Meegin",
+		"email_owner": "lmeegint@theatlantic.com",
+		"address": "1 Corscot Court",
+		"city": "New York",
+		"zipcode": "12205",
+		"state": "New York",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x233.png/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€361239,12",
+		"amenities": [
+			{ "sqmt": 219, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "8/28/2019",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "8df1c4d8-46f5-4ebf-97c2-2e94f5c679f4",
+		"first_name_owner": "Nolie",
+		"last_name_owner": "Diviney",
+		"email_owner": "ndivineyu@deviantart.com",
+		"address": "9 Bay Place",
+		"city": "Krakow",
+		"zipcode": "10009",
+		"state": "New York",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x149.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€712549,34",
+		"amenities": [
+			{ "sqmt": 44, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "12/26/2019",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "f34d00bd-3794-4eb9-9159-2555fa89547f",
+		"first_name_owner": "Brade",
+		"last_name_owner": "Worlock",
+		"email_owner": "bworlockv@unc.edu",
+		"address": "16 Lillian Park",
+		"city": "Milan",
+		"zipcode": "22908",
+		"state": "Virginia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x245.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€452560,93",
+		"amenities": [
+			{ "sqmt": 90, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "3/29/2019",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "ab5ab78f-792a-4f0d-b80b-752145832180",
+		"first_name_owner": "Humbert",
+		"last_name_owner": "McLugaish",
+		"email_owner": "hmclugaishw@goo.ne.jp",
+		"address": "84 Dwight Avenue",
+		"city": "Monroe",
+		"zipcode": "92710",
+		"state": "California",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x145.png/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€196462,07",
+		"amenities": [
+			{ "sqmt": 145, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "4/24/2018",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "5f0f6263-d556-457b-b4f8-0f30c2eb1685",
+		"first_name_owner": "Dode",
+		"last_name_owner": "Rickaert",
+		"email_owner": "drickaertx@telegraph.co.uk",
+		"address": "062 Nova Court",
+		"city": "Krakow",
+		"zipcode": "28815",
+		"state": "North Carolina",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x241.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€130273,54",
+		"amenities": [
+			{ "sqmt": 101, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "6/16/2019",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "86d4679f-b2f6-4771-82d8-43fdca5b9bb6",
+		"first_name_owner": "Annecorinne",
+		"last_name_owner": "Beeze",
+		"email_owner": "abeezey@elegantthemes.com",
+		"address": "07 Vidon Circle",
+		"city": "Sofia",
+		"zipcode": "89510",
+		"state": "Nevada",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x210.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€246438,61",
+		"amenities": [
+			{ "sqmt": 107, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "7/4/2018",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "7ce78644-f3d7-43d6-961d-162e63f11fda",
+		"first_name_owner": "Evey",
+		"last_name_owner": "Barton",
+		"email_owner": "ebartonz@naver.com",
+		"address": "1 Orin Road",
+		"city": "New York",
+		"zipcode": "78255",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x177.jpg/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€567189,70",
+		"amenities": [
+			{ "sqmt": 152, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "8/8/2018",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "e3a93362-44d9-425e-9562-70929d36152e",
+		"first_name_owner": "Betteann",
+		"last_name_owner": "Helsby",
+		"email_owner": "bhelsby10@time.com",
+		"address": "78 Farmco Street",
+		"city": "Rome",
+		"zipcode": "10034",
+		"state": "New York",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x116.jpg/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€447858,64",
+		"amenities": [
+			{ "sqmt": 217, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "4/15/2019",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "9bd1eb6b-7fcd-48d7-bb97-449256f002a1",
+		"first_name_owner": "Adrianna",
+		"last_name_owner": "Vedyasov",
+		"email_owner": "avedyasov11@cloudflare.com",
+		"address": "59 Mendota Junction",
+		"city": "Rome",
+		"zipcode": "30323",
+		"state": "Georgia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.png/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x231.bmp/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€522059,09",
+		"amenities": [
+			{ "sqmt": 97, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "4/9/2018",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "5d6282a9-678b-4517-a99b-9e10257f4df3",
+		"first_name_owner": "Gianni",
+		"last_name_owner": "Breffitt",
+		"email_owner": "gbreffitt12@merriam-webster.com",
+		"address": "8198 Warrior Park",
+		"city": "Naples",
+		"zipcode": "06538",
+		"state": "Connecticut",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x249.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€748661,05",
+		"amenities": [
+			{ "sqmt": 145, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "4/24/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "d314d507-a419-4f68-ab38-7d39ac8badd1",
+		"first_name_owner": "Iggy",
+		"last_name_owner": "Coleborn",
+		"email_owner": "icoleborn13@cnet.com",
+		"address": "43 Valley Edge Parkway",
+		"city": "Sofia",
+		"zipcode": "83722",
+		"state": "Idaho",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x107.png/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€434554,63",
+		"amenities": [
+			{ "sqmt": 126, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "8/28/2018",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "6d46c90f-a53a-43e0-a4a5-acead8e020eb",
+		"first_name_owner": "Stacia",
+		"last_name_owner": "Swainger",
+		"email_owner": "sswainger14@abc.net.au",
+		"address": "5 North Parkway",
+		"city": "Milan",
+		"zipcode": "76198",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x196.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€255331,08",
+		"amenities": [
+			{ "sqmt": 82, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "1/18/2020",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "b8769602-0614-409f-aaca-d3a7c6df6303",
+		"first_name_owner": "Cristabel",
+		"last_name_owner": "Lurcock",
+		"email_owner": "clurcock15@soup.io",
+		"address": "71 North Terrace",
+		"city": "Naples",
+		"zipcode": "77090",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x189.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€626051,49",
+		"amenities": [
+			{ "sqmt": 188, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "10/15/2018",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "8e1b3faa-9da0-46e9-846f-a67134f44409",
+		"first_name_owner": "Morgan",
+		"last_name_owner": "Windless",
+		"email_owner": "mwindless16@yelp.com",
+		"address": "21991 Oak Court",
+		"city": "Milan",
+		"zipcode": "39505",
+		"state": "Mississippi",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x191.jpg/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€463914,57",
+		"amenities": [
+			{ "sqmt": 204, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "4/16/2018",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "517cc35c-a816-4daa-9379-bea8ea64135f",
+		"first_name_owner": "Stephani",
+		"last_name_owner": "Moffatt",
+		"email_owner": "smoffatt17@de.vu",
+		"address": "7 Westend Terrace",
+		"city": "New York",
+		"zipcode": "40256",
+		"state": "Kentucky",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x204.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€762651,99",
+		"amenities": [
+			{ "sqmt": 189, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "5/25/2018",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "c51a38bd-4b6f-4959-9ec6-f203dad16987",
+		"first_name_owner": "Jude",
+		"last_name_owner": "Hurd",
+		"email_owner": "jhurd18@answers.com",
+		"address": "262 Columbus Park",
+		"city": "Rome",
+		"zipcode": "65211",
+		"state": "Missouri",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x167.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€142133,22",
+		"amenities": [
+			{ "sqmt": 227, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "9/16/2019",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "9e9e327a-0bba-4b91-90b6-de6be63bda06",
+		"first_name_owner": "Rosana",
+		"last_name_owner": "Yuryev",
+		"email_owner": "ryuryev19@japanpost.jp",
+		"address": "02 Myrtle Lane",
+		"city": "Milan",
+		"zipcode": "77844",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x165.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€700232,01",
+		"amenities": [
+			{ "sqmt": 58, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "11/13/2019",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "0f463ac6-505e-40e5-a51a-60457d7352fb",
+		"first_name_owner": "Gilda",
+		"last_name_owner": "Bowman",
+		"email_owner": "gbowman1a@google.ru",
+		"address": "4398 Anniversary Hill",
+		"city": "New York",
+		"zipcode": "11447",
+		"state": "New York",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x173.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€300064,45",
+		"amenities": [
+			{ "sqmt": 191, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "1/4/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "ffa4846e-f291-4366-81b6-81ff1b5de3df",
+		"first_name_owner": "Lane",
+		"last_name_owner": "Bartlett",
+		"email_owner": "lbartlett1b@chronoengine.com",
+		"address": "27468 Cardinal Center",
+		"city": "Sofia",
+		"zipcode": "23464",
+		"state": "Virginia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x199.bmp/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€131009,85",
+		"amenities": [
+			{ "sqmt": 68, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "3/26/2019",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "8fbf9cac-1f61-4061-b6b5-5f502b34773e",
+		"first_name_owner": "Gardener",
+		"last_name_owner": "Hannen",
+		"email_owner": "ghannen1c@devhub.com",
+		"address": "9636 Hansons Junction",
+		"city": "Monroe",
+		"zipcode": "01105",
+		"state": "Massachusetts",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x135.png/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€429026,82",
+		"amenities": [
+			{ "sqmt": 66, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "3/6/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "052e3b1e-4d5c-40c5-a078-78ccb965aa56",
+		"first_name_owner": "Myles",
+		"last_name_owner": "Fiddiman",
+		"email_owner": "mfiddiman1d@ameblo.jp",
+		"address": "59248 Brentwood Place",
+		"city": "Sofia",
+		"zipcode": "32118",
+		"state": "Florida",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x161.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€359835,58",
+		"amenities": [
+			{ "sqmt": 103, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "6/25/2019",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "7b8483fe-275e-496d-b9f7-da3612482016",
+		"first_name_owner": "Rose",
+		"last_name_owner": "Crassweller",
+		"email_owner": "rcrassweller1e@sun.com",
+		"address": "2328 Forest Dale Avenue",
+		"city": "Monroe",
+		"zipcode": "70593",
+		"state": "Louisiana",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x134.bmp/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€690040,56",
+		"amenities": [
+			{ "sqmt": 178, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "11/16/2019",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "3a59ca5a-0b51-43e1-9d52-80afb1a49186",
+		"first_name_owner": "Randa",
+		"last_name_owner": "Dwyr",
+		"email_owner": "rdwyr1f@prlog.org",
+		"address": "2 Corry Street",
+		"city": "Rome",
+		"zipcode": "46896",
+		"state": "Indiana",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x104.bmp/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€737865,67",
+		"amenities": [
+			{ "sqmt": 56, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "8/11/2018",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "71b38448-53b7-4490-bd0d-454b7ee8d937",
+		"first_name_owner": "Cross",
+		"last_name_owner": "Searchfield",
+		"email_owner": "csearchfield1g@histats.com",
+		"address": "85549 North Avenue",
+		"city": "Naples",
+		"zipcode": "89436",
+		"state": "Nevada",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x233.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€501747,67",
+		"amenities": [
+			{ "sqmt": 130, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "5/7/2018",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "3d332f7c-1cee-4525-8fef-47d152575edf",
+		"first_name_owner": "Karlee",
+		"last_name_owner": "Menchenton",
+		"email_owner": "kmenchenton1h@people.com.cn",
+		"address": "3427 Forest Run Street",
+		"city": "Krakow",
+		"zipcode": "89714",
+		"state": "Nevada",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x221.png/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€670785,13",
+		"amenities": [
+			{ "sqmt": 87, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "12/21/2018",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "915082e1-d233-4b81-9e4e-776ee699bee0",
+		"first_name_owner": "Holly-anne",
+		"last_name_owner": "Lalley",
+		"email_owner": "hlalley1i@artisteer.com",
+		"address": "3 Upham Drive",
+		"city": "Milan",
+		"zipcode": "79452",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x241.bmp/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€633615,45",
+		"amenities": [
+			{ "sqmt": 96, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "10/5/2019",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "fd83cb10-70ce-4100-9be5-890c2b8beea2",
+		"first_name_owner": "Agata",
+		"last_name_owner": "Brunnstein",
+		"email_owner": "abrunnstein1j@ucsd.edu",
+		"address": "25 Schlimgen Street",
+		"city": "Monroe",
+		"zipcode": "63121",
+		"state": "Missouri",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x102.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€353751,96",
+		"amenities": [
+			{ "sqmt": 68, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "9/23/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "b42ca407-6e65-4869-a153-f18d0ccb87bc",
+		"first_name_owner": "Lenna",
+		"last_name_owner": "Tummasutti",
+		"email_owner": "ltummasutti1k@php.net",
+		"address": "9507 Moland Drive",
+		"city": "New York",
+		"zipcode": "83716",
+		"state": "Idaho",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x115.png/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€120570,73",
+		"amenities": [
+			{ "sqmt": 235, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "3/11/2020",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "199eb631-18a2-4b0c-8707-bc125e3e887b",
+		"first_name_owner": "Lamont",
+		"last_name_owner": "Mackrill",
+		"email_owner": "lmackrill1l@sourceforge.net",
+		"address": "356 Gulseth Avenue",
+		"city": "Milan",
+		"zipcode": "89193",
+		"state": "Nevada",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x172.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€361916,90",
+		"amenities": [
+			{ "sqmt": 93, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "8/17/2019",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "43baecb5-d2a0-4d9d-a703-9f159239eb25",
+		"first_name_owner": "Vernen",
+		"last_name_owner": "Greer",
+		"email_owner": "vgreer1m@deviantart.com",
+		"address": "202 Eagle Crest Trail",
+		"city": "Krakow",
+		"zipcode": "31914",
+		"state": "Georgia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x119.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€434624,66",
+		"amenities": [
+			{ "sqmt": 136, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "2/9/2020",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "7d79c34c-1829-4d20-a7ed-8a72c74c098f",
+		"first_name_owner": "Angie",
+		"last_name_owner": "MacGahey",
+		"email_owner": "amacgahey1n@sbwire.com",
+		"address": "063 Rieder Center",
+		"city": "Naples",
+		"zipcode": "12222",
+		"state": "New York",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x153.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€639135,31",
+		"amenities": [
+			{ "sqmt": 77, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "3/10/2020",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "5e324f9d-d702-425f-a8e7-b41c7f232bb6",
+		"first_name_owner": "Elianora",
+		"last_name_owner": "Donnison",
+		"email_owner": "edonnison1o@berkeley.edu",
+		"address": "9312 Tennessee Street",
+		"city": "Sofia",
+		"zipcode": "11407",
+		"state": "New York",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x169.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€418012,67",
+		"amenities": [
+			{ "sqmt": 65, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "7/20/2018",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "dd7494ec-7cc9-4668-9306-330075cded24",
+		"first_name_owner": "Dina",
+		"last_name_owner": "Tollet",
+		"email_owner": "dtollet1p@arstechnica.com",
+		"address": "3 Twin Pines Center",
+		"city": "Naples",
+		"zipcode": "49444",
+		"state": "Michigan",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x126.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€774817,68",
+		"amenities": [
+			{ "sqmt": 90, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "4/4/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "2f4df16e-7434-4220-bf76-f2d762ef8238",
+		"first_name_owner": "Stormi",
+		"last_name_owner": "Spoure",
+		"email_owner": "sspoure1q@google.ru",
+		"address": "237 Tennessee Junction",
+		"city": "Monroe",
+		"zipcode": "25362",
+		"state": "West Virginia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x188.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€496970,29",
+		"amenities": [
+			{ "sqmt": 184, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "3/25/2020",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "20bb18cd-82c9-4703-bf74-27f59ce87d50",
+		"first_name_owner": "Lia",
+		"last_name_owner": "Espinel",
+		"email_owner": "lespinel1r@goo.ne.jp",
+		"address": "879 Hagan Point",
+		"city": "Krakow",
+		"zipcode": "77245",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x215.jpg/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€654645,68",
+		"amenities": [
+			{ "sqmt": 203, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "3/22/2020",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "60d59abd-6652-4f8d-a20d-8afe39f0dab4",
+		"first_name_owner": "Shandy",
+		"last_name_owner": "Miklem",
+		"email_owner": "smiklem1s@theglobeandmail.com",
+		"address": "31211 Talisman Pass",
+		"city": "Krakow",
+		"zipcode": "63110",
+		"state": "Missouri",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x244.jpg/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€165285,26",
+		"amenities": [
+			{ "sqmt": 230, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "8/27/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "a5f29893-59f4-4f7c-a616-a88e18984d2e",
+		"first_name_owner": "Mil",
+		"last_name_owner": "Spadazzi",
+		"email_owner": "mspadazzi1t@blog.com",
+		"address": "267 Anzinger Road",
+		"city": "New York",
+		"zipcode": "77281",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x117.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€673126,94",
+		"amenities": [
+			{ "sqmt": 49, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "2/20/2019",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "e3057385-e047-46a7-a485-1210123b8eab",
+		"first_name_owner": "Dasya",
+		"last_name_owner": "Leah",
+		"email_owner": "dleah1u@nature.com",
+		"address": "48441 Packers Avenue",
+		"city": "Krakow",
+		"zipcode": "32204",
+		"state": "Florida",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x213.jpg/5fa2dd/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€713391,74",
+		"amenities": [
+			{ "sqmt": 210, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "6/4/2018",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "a42bcf68-4acf-48d7-8df3-2cdb9386dce6",
+		"first_name_owner": "Donielle",
+		"last_name_owner": "Lemary",
+		"email_owner": "dlemary1v@lycos.com",
+		"address": "884 Kensington Park",
+		"city": "Milan",
+		"zipcode": "79984",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.png/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x161.bmp/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€700939,21",
+		"amenities": [
+			{ "sqmt": 124, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "11/13/2018",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "c0fa42de-305a-43ac-97d8-a026b406f092",
+		"first_name_owner": "Brendan",
+		"last_name_owner": "Dunbabin",
+		"email_owner": "bdunbabin1w@spotify.com",
+		"address": "64 Darwin Way",
+		"city": "Krakow",
+		"zipcode": "90410",
+		"state": "California",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x105.png/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€194016,59",
+		"amenities": [
+			{ "sqmt": 185, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "5/31/2019",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "049c4740-7a21-470d-b650-718547ef8ad3",
+		"first_name_owner": "Kitty",
+		"last_name_owner": "Counter",
+		"email_owner": "kcounter1x@sina.com.cn",
+		"address": "709 Cottonwood Drive",
+		"city": "Naples",
+		"zipcode": "96810",
+		"state": "Hawaii",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x214.bmp/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€216967,62",
+		"amenities": [
+			{ "sqmt": 234, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "4/24/2018",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "03a996ca-32ee-4192-99ea-b3b0569ef4d2",
+		"first_name_owner": "Pooh",
+		"last_name_owner": "O' Quirk",
+		"email_owner": "poquirk1y@eventbrite.com",
+		"address": "28001 Leroy Plaza",
+		"city": "Krakow",
+		"zipcode": "94132",
+		"state": "California",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x167.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€608993,12",
+		"amenities": [
+			{ "sqmt": 96, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "1/16/2019",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "00c2eb42-1215-41a8-ae70-24ede7f6c5df",
+		"first_name_owner": "Jessey",
+		"last_name_owner": "Growcock",
+		"email_owner": "jgrowcock1z@ning.com",
+		"address": "992 Riverside Hill",
+		"city": "New York",
+		"zipcode": "36205",
+		"state": "Alabama",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x117.jpg/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€484113,48",
+		"amenities": [
+			{ "sqmt": 189, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "11/10/2019",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "17927911-aedc-4bbb-b425-404528a149b2",
+		"first_name_owner": "Florence",
+		"last_name_owner": "Stoade",
+		"email_owner": "fstoade20@irs.gov",
+		"address": "5749 Lakewood Gardens Avenue",
+		"city": "New York",
+		"zipcode": "08619",
+		"state": "New Jersey",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x214.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€655301,40",
+		"amenities": [
+			{ "sqmt": 240, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "6/3/2018",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "64f7b20a-1784-4794-96e3-5e4aa52a066c",
+		"first_name_owner": "Corrinne",
+		"last_name_owner": "Durak",
+		"email_owner": "cdurak21@hao123.com",
+		"address": "8340 Hauk Street",
+		"city": "Rome",
+		"zipcode": "85025",
+		"state": "Arizona",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x160.png/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€669576,43",
+		"amenities": [
+			{ "sqmt": 194, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "4/8/2018",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "2a658692-0d1d-499b-a793-ddcced2d24de",
+		"first_name_owner": "Porty",
+		"last_name_owner": "Bucher",
+		"email_owner": "pbucher22@purevolume.com",
+		"address": "2 Packers Way",
+		"city": "Rome",
+		"zipcode": "87505",
+		"state": "New Mexico",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x220.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€726660,28",
+		"amenities": [
+			{ "sqmt": 165, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "8/1/2018",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "6ae0f7b4-1893-4ba1-86ee-f72a9f7e800e",
+		"first_name_owner": "Harrie",
+		"last_name_owner": "Avery",
+		"email_owner": "havery23@nydailynews.com",
+		"address": "97 Bunker Hill Avenue",
+		"city": "Sofia",
+		"zipcode": "40586",
+		"state": "Kentucky",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x130.png/cc0000/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€361276,10",
+		"amenities": [
+			{ "sqmt": 100, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "1/23/2020",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "15f57cd0-7311-4d36-b8d9-8a113bf2ff16",
+		"first_name_owner": "Hilton",
+		"last_name_owner": "Guare",
+		"email_owner": "hguare24@economist.com",
+		"address": "844 Southridge Alley",
+		"city": "Rome",
+		"zipcode": "40505",
+		"state": "Kentucky",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x203.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€773823,96",
+		"amenities": [
+			{ "sqmt": 222, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "7/12/2019",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "442ce600-9d1e-4a05-ba70-7840df979f0e",
+		"first_name_owner": "Danita",
+		"last_name_owner": "Danahar",
+		"email_owner": "ddanahar25@gravatar.com",
+		"address": "48950 Anthes Park",
+		"city": "Krakow",
+		"zipcode": "57198",
+		"state": "South Dakota",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x206.png/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€564766,21",
+		"amenities": [
+			{ "sqmt": 131, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "3/27/2019",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "6a3a753f-c641-4baa-a733-6446ea614c8b",
+		"first_name_owner": "Belva",
+		"last_name_owner": "Klejin",
+		"email_owner": "bklejin26@tiny.cc",
+		"address": "6 Reinke Terrace",
+		"city": "Krakow",
+		"zipcode": "02142",
+		"state": "Massachusetts",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x164.png/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€226374,79",
+		"amenities": [
+			{ "sqmt": 217, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "6/28/2018",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"garage": 2
+	},
+	{
+		"id": "47697efa-ed0c-40d8-aaf3-074549d85247",
+		"first_name_owner": "Katharina",
+		"last_name_owner": "Batchellor",
+		"email_owner": "kbatchellor27@domainmarket.com",
+		"address": "9670 Stoughton Parkway",
+		"city": "Sofia",
+		"zipcode": "80299",
+		"state": "Colorado",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x208.bmp/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€603786,23",
+		"amenities": [
+			{ "sqmt": 227, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "6/2/2019",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "e11afce2-dfab-4edf-9e9d-2dda782bbf52",
+		"first_name_owner": "Basilius",
+		"last_name_owner": "Scurman",
+		"email_owner": "bscurman28@samsung.com",
+		"address": "166 Blue Bill Park Lane",
+		"city": "New York",
+		"zipcode": "68583",
+		"state": "Nebraska",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x247.png/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€295948,69",
+		"amenities": [
+			{ "sqmt": 96, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "12/29/2019",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "45b62dce-a10d-4aa5-854f-4e7dc87eb347",
+		"first_name_owner": "Mireille",
+		"last_name_owner": "Minihane",
+		"email_owner": "mminihane29@clickbank.net",
+		"address": "1 Nobel Lane",
+		"city": "Krakow",
+		"zipcode": "93399",
+		"state": "California",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x119.jpg/cc0000/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€626433,20",
+		"amenities": [
+			{ "sqmt": 100, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "11/25/2018",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "ebb3f10e-adf3-4566-a17d-5c19808fd0ea",
+		"first_name_owner": "Rebekah",
+		"last_name_owner": "Tierney",
+		"email_owner": "rtierney2a@slate.com",
+		"address": "892 Holy Cross Junction",
+		"city": "New York",
+		"zipcode": "95818",
+		"state": "California",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x164.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€385864,37",
+		"amenities": [
+			{ "sqmt": 119, "wifi": false, "garden": true, "balcony": false }
+		],
+		"data_addedd": "3/17/2019",
+		"bedrooms": 2,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "73e46833-9c3b-4b14-9314-2bcbb891ba92",
+		"first_name_owner": "Doralin",
+		"last_name_owner": "Finnis",
+		"email_owner": "dfinnis2b@acquirethisname.com",
+		"address": "91368 Prentice Street",
+		"city": "Monroe",
+		"zipcode": "75705",
+		"state": "Texas",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.png/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x133.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€233844,72",
+		"amenities": [
+			{ "sqmt": 48, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "10/21/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "09e0d356-2631-40c3-a74c-0ea47f4a4c9d",
+		"first_name_owner": "Adrian",
+		"last_name_owner": "Whiffin",
+		"email_owner": "awhiffin2c@feedburner.com",
+		"address": "25 Maryland Point",
+		"city": "New York",
+		"zipcode": "98115",
+		"state": "Washington",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x163.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€187346,41",
+		"amenities": [
+			{ "sqmt": 40, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "6/10/2019",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "b842d08d-0984-476a-938e-280c1a7477f2",
+		"first_name_owner": "Nikkie",
+		"last_name_owner": "Gregorowicz",
+		"email_owner": "ngregorowicz2d@biblegateway.com",
+		"address": "109 Maple Point",
+		"city": "New York",
+		"zipcode": "59771",
+		"state": "Montana",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x126.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€141303,35",
+		"amenities": [
+			{ "sqmt": 214, "wifi": true, "garden": true, "balcony": false }
+		],
+		"data_addedd": "3/1/2019",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "05061855-b6a4-4064-b619-70e43401948c",
+		"first_name_owner": "Pamelina",
+		"last_name_owner": "Joyes",
+		"email_owner": "pjoyes2e@tumblr.com",
+		"address": "60 Bobwhite Trail",
+		"city": "Rome",
+		"zipcode": "39204",
+		"state": "Mississippi",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x212.bmp/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "House",
+		"price": "€636525,19",
+		"amenities": [
+			{ "sqmt": 219, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "1/6/2020",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "9a360855-f9b1-426f-a10d-da2f37c26863",
+		"first_name_owner": "Scotty",
+		"last_name_owner": "McPhelimy",
+		"email_owner": "smcphelimy2f@hhs.gov",
+		"address": "97965 Mcguire Way",
+		"city": "Naples",
+		"zipcode": "95194",
+		"state": "California",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x139.png/5fa2dd/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€653094,93",
+		"amenities": [
+			{ "sqmt": 85, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "2/24/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "d58a4454-b4de-41ba-9242-ffcc4df11aef",
+		"first_name_owner": "Monroe",
+		"last_name_owner": "Loudian",
+		"email_owner": "mloudian2g@studiopress.com",
+		"address": "4614 Trailsway Place",
+		"city": "Rome",
+		"zipcode": "25770",
+		"state": "West Virginia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.png/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x193.png/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€521889,58",
+		"amenities": [
+			{ "sqmt": 85, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "4/30/2018",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 2
+	},
+	{
+		"id": "74bf7bc3-b87a-4d68-ad9a-7a1bf953eb55",
+		"first_name_owner": "Inez",
+		"last_name_owner": "Dudenie",
+		"email_owner": "idudenie2h@hostgator.com",
+		"address": "53 Old Shore Trail",
+		"city": "New York",
+		"zipcode": "19172",
+		"state": "Pennsylvania",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x130.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€454419,90",
+		"amenities": [
+			{ "sqmt": 134, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "5/15/2019",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"garage": 1
+	},
+	{
+		"id": "974030f0-fd56-48dd-8b5d-1e5513ef2f74",
+		"first_name_owner": "Artur",
+		"last_name_owner": "Carah",
+		"email_owner": "acarah2i@studiopress.com",
+		"address": "4 Grasskamp Court",
+		"city": "New York",
+		"zipcode": "30343",
+		"state": "Georgia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x148.bmp/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€374372,22",
+		"amenities": [
+			{ "sqmt": 137, "wifi": true, "garden": false, "balcony": true }
+		],
+		"data_addedd": "8/7/2018",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "c44e6b3d-fdf2-418e-9da8-1d9d8609d8f8",
+		"first_name_owner": "Lannie",
+		"last_name_owner": "Keenlayside",
+		"email_owner": "lkeenlayside2j@mlb.com",
+		"address": "94632 Northfield Center",
+		"city": "Milan",
+		"zipcode": "29203",
+		"state": "South Carolina",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x189.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€161876,08",
+		"amenities": [
+			{ "sqmt": 196, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "10/18/2019",
+		"bedrooms": 1,
+		"bathrooms": 1,
+		"garage": 1
+	},
+	{
+		"id": "0593e3c4-56b3-497d-af42-9eec40613eec",
+		"first_name_owner": "Lenna",
+		"last_name_owner": "Sphinxe",
+		"email_owner": "lsphinxe2k@yahoo.co.jp",
+		"address": "2 Lake View Pass",
+		"city": "Naples",
+		"zipcode": "32314",
+		"state": "Florida",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x203.png/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Lot",
+		"price": "€423822,62",
+		"amenities": [
+			{ "sqmt": 45, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "12/16/2018",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "95ed2b38-cf6a-4a41-9eee-b97dcd9b38cd",
+		"first_name_owner": "Letitia",
+		"last_name_owner": "Craghead",
+		"email_owner": "lcraghead2l@simplemachines.org",
+		"address": "7744 Springs Crossing",
+		"city": "Monroe",
+		"zipcode": "10292",
+		"state": "New York",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/dddddd/000000",
+				"image_small": "http://dummyimage.com/860x206.jpg/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€254675,64",
+		"amenities": [
+			{ "sqmt": 244, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "4/13/2018",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "c249a468-4fb6-41dd-91ce-da59055740b9",
+		"first_name_owner": "Timmie",
+		"last_name_owner": "Frankiewicz",
+		"email_owner": "tfrankiewicz2m@mashable.com",
+		"address": "8 Hansons Way",
+		"city": "New York",
+		"zipcode": "30343",
+		"state": "Georgia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/cc0000/ffffff",
+				"image_small": "http://dummyimage.com/860x201.jpg/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€506390,80",
+		"amenities": [
+			{ "sqmt": 148, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "7/28/2019",
+		"bedrooms": 3,
+		"bathrooms": 1,
+		"garage": 2
+	},
+	{
+		"id": "445bca9e-fddb-452c-ad7d-45077a267fa5",
+		"first_name_owner": "Lionello",
+		"last_name_owner": "Sibylla",
+		"email_owner": "lsibylla2n@baidu.com",
+		"address": "038 Haas Parkway",
+		"city": "Sofia",
+		"zipcode": "35487",
+		"state": "Alabama",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x105.jpg/ff4444/ffffff"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€190299,30",
+		"amenities": [
+			{ "sqmt": 183, "wifi": true, "garden": false, "balcony": false }
+		],
+		"data_addedd": "8/3/2019",
+		"bedrooms": 2,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "bd431976-f495-484d-8a76-0f784b05adc9",
+		"first_name_owner": "Norrie",
+		"last_name_owner": "Sollars",
+		"email_owner": "nsollars2o@pagesperso-orange.fr",
+		"address": "1143 Mosinee Trail",
+		"city": "Naples",
+		"zipcode": "20099",
+		"state": "District of Columbia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/ff4444/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.png/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x188.png/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "House",
+		"price": "€690465,57",
+		"amenities": [
+			{ "sqmt": 243, "wifi": false, "garden": true, "balcony": true }
+		],
+		"data_addedd": "1/23/2020",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "a8adbaa6-8e3d-4314-bb04-c4e2e14497b4",
+		"first_name_owner": "Bendite",
+		"last_name_owner": "Gethin",
+		"email_owner": "bgethin2p@fda.gov",
+		"address": "414 Westerfield Point",
+		"city": "New York",
+		"zipcode": "23459",
+		"state": "Virginia",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.bmp/5fa2dd/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x165.bmp/ff4444/ffffff"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Lot",
+		"price": "€391686,23",
+		"amenities": [
+			{ "sqmt": 117, "wifi": false, "garden": false, "balcony": false }
+		],
+		"data_addedd": "4/10/2018",
+		"bedrooms": 1,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "bfcffc33-ad5d-43cf-b2f4-d82f41743daa",
+		"first_name_owner": "Ogden",
+		"last_name_owner": "Wickett",
+		"email_owner": "owickett2q@so-net.ne.jp",
+		"address": "9 Larry Center",
+		"city": "Milan",
+		"zipcode": "85053",
+		"state": "Arizona",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/dddddd/000000",
+				"image_medium": "http://dummyimage.com/1024x1024.bmp/5fa2dd/ffffff",
+				"image_small": "http://dummyimage.com/860x173.png/dddddd/000000"
+			}
+		],
+		"status": "rent",
+		"apt_type": "Apartment",
+		"price": "€582588,54",
+		"amenities": [
+			{ "sqmt": 150, "wifi": false, "garden": false, "balcony": true }
+		],
+		"data_addedd": "9/14/2019",
+		"bedrooms": 3,
+		"bathrooms": 3,
+		"garage": 1
+	},
+	{
+		"id": "cbd48e6c-fd39-4ed5-ac1c-785aa9ecbe38",
+		"first_name_owner": "Jacklyn",
+		"last_name_owner": "Okenden",
+		"email_owner": "jokenden2r@state.tx.us",
+		"address": "01 Katie Pass",
+		"city": "Naples",
+		"zipcode": "70810",
+		"state": "Louisiana",
+		"images": [
+			{
+				"image_large": "http://dummyimage.com/1980x1620.jpg/cc0000/ffffff",
+				"image_medium": "http://dummyimage.com/1024x1024.jpg/ff4444/ffffff",
+				"image_small": "http://dummyimage.com/860x199.png/dddddd/000000"
+			}
+		],
+		"status": "sale",
+		"apt_type": "Apartment",
+		"price": "€795660,07",
+		"amenities": [
+			{ "sqmt": 83, "wifi": true, "garden": true, "balcony": true }
+		],
+		"data_addedd": "10/21/2019",
+		"bedrooms": 1,
+		"bathrooms": 2,
+		"garage": 2
+	}
+]

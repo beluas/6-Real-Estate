@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/6-Real-Estate/static/css/main.b0102452.chunk.css",
+    "main.js": "/6-Real-Estate/static/js/main.785e5d4d.chunk.js",
+    "main.js.map": "/6-Real-Estate/static/js/main.785e5d4d.chunk.js.map",
+    "runtime-main.js": "/6-Real-Estate/static/js/runtime-main.bb2af2b0.js",
+    "runtime-main.js.map": "/6-Real-Estate/static/js/runtime-main.bb2af2b0.js.map",
+    "static/js/2.2d157eeb.chunk.js": "/6-Real-Estate/static/js/2.2d157eeb.chunk.js",
+    "static/js/2.2d157eeb.chunk.js.map": "/6-Real-Estate/static/js/2.2d157eeb.chunk.js.map",
+    "index.html": "/6-Real-Estate/index.html",
+    "precache-manifest.86f2d961ca853f10bef86e98620ae24e.js": "/6-Real-Estate/precache-manifest.86f2d961ca853f10bef86e98620ae24e.js",
+    "service-worker.js": "/6-Real-Estate/service-worker.js",
+    "static/css/main.b0102452.chunk.css.map": "/6-Real-Estate/static/css/main.b0102452.chunk.css.map",
+    "static/js/2.2d157eeb.chunk.js.LICENSE.txt": "/6-Real-Estate/static/js/2.2d157eeb.chunk.js.LICENSE.txt",
+    "static/media/initialForm.styles.scss": "/6-Real-Estate/static/media/picForm.59e0ff9c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb2af2b0.js",
+    "static/js/2.2d157eeb.chunk.js",
+    "static/css/main.b0102452.chunk.css",
+    "static/js/main.785e5d4d.chunk.js"
+  ]
+}
