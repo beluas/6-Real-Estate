@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { connect } from "react-redux";
+import { fetchStart, initialFetch } from "./redux/actions";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Header from "./components/header/Header.component";
+import InfoBoxSec from "./components/info-box-section/InfoBoxSec.component";
+import FeaturedApts from "./components/featured-apts/FeaturedApts.component";
+
+function App(props) {
+	props.initialFetch();
+	return (
+		<div className="App">
+			<div className="container-flex-2">
+				<Header />
+				<InfoBoxSec />
+				<FeaturedApts />
+			</div>
+		</div>
+	);
 }
 
-export default App;
+const dispatchToProps = {
+	fetchStart,
+	initialFetch,
+};
+
+export default connect(null, dispatchToProps)(App);

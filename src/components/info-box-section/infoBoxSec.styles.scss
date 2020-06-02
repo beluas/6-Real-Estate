@@ -1,0 +1,30 @@
+.box-container {
+	display: flex;
+	justify-content: space-evenly;
+	max-width: 1024px;
+	margin: 3rem auto;
+}
+
+.box {
+	flex-basis: 33%;
+	border: 4px solid #f3f4f9;
+	padding: 2rem 3rem;
+
+	.radius-icon {
+		border-radius: 50%;
+		width: 80px;
+		height: 80px;
+		border: 4px solid #f3f4f9;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	i {
+		font-size: 40px;
+		color: #4b9ef1;
+	}
+
+	&:not(:last-of-type) {
+		margin-right: 2rem;
+	}
+}

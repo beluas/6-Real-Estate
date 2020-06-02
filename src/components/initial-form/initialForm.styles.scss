@@ -1,0 +1,46 @@
+.form-container {
+	width: 50%;
+	margin-right: 3rem;
+	padding: 4rem;
+	background: url("../../assets/picForm.svg");
+	box-shadow: inset -1100px 0px 0px rgba(65, 131, 215, 0.95);
+	background-position: right;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+
+	h2 {
+		margin-top: -1rem;
+		font-size: 35px;
+		color: white;
+	}
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+
+	button[type="submit"] {
+		a {
+			display: block;
+			padding: 1rem;
+			text-decoration: none;
+		}
+	}
+	select {
+		padding: 1rem;
+	}
+	.fields {
+		display: flex;
+		justify-content: space-around;
+		margin: 1rem 0;
+		select {
+			flex-basis: 50%;
+
+			&:first-child {
+				margin-right: 1rem;
+			}
+		}
+	}
+}

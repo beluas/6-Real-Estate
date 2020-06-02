@@ -1,0 +1,17 @@
+.property-container {
+	width: 50%;
+}
+
+.property {
+	min-height: 500px;
+	background-size: cover;
+	background-position: center center;
+	display: flex;
+	flex-direction: column-reverse;
+	.desc {
+		color: #fff;
+		padding: 0.3rem 0rem 1rem 1.3rem;
+		width: 100%;
+		background-color: rgba(0, 0, 0, 0.5);
+	}
+}

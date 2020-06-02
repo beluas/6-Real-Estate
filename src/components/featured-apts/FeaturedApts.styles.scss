@@ -1,0 +1,52 @@
+.aptBox-container {
+	background-color: #fff;
+	width: 330px;
+	margin: 2.5rem auto;
+	padding: 1rem;
+
+	.ft-title {
+		margin: -3rem 0 1.5rem 0;
+		color: #4b9ef1;
+	}
+}
+
+.featured-apt-box {
+	width: 280px;
+	height: 200px;
+	margin: 1rem auto;
+	flex-basis: 40%;
+	position: relative;
+	top: -55px;
+	background-position: center center;
+	background-size: cover;
+
+	.price {
+		background-color: #4b9ef1;
+		color: #fff;
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+		padding: 0.5rem;
+	}
+}
+
+.ft-section {
+	background-color: #f3f4f9;
+	padding: 3rem;
+
+	.ft-section-container {
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
+	}
+}
+
+.amenities {
+	display: flex;
+	flex-wrap: wrap;
+
+	span {
+		flex-basis: 40%;
+		margin: 0.5rem auto;
+	}
+}
