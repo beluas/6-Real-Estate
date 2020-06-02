@@ -1,7 +1,7 @@
 import { takeLatest, put, take } from "redux-saga/effects";
 
 export function* fetchAptSaga() {
-	const data = yield fetch("http://localhost:3000/real_estate.json");
+	const data = yield fetch("/real_estate.json");
 	const apts = yield data.json();
 
 	yield put({ type: "FETCH_ALL", payload: apts });
